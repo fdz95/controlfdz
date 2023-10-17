@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "user-fdz";
-$password = "Tt>#Y=HaFFYB5vx";
-$dbname = "database_fdz";
+$username = "";
+$password = "";
+$dbname = "database";
 
 try {
     $dsn = "mysql:host=$servername;dbname=$dbname;charset=utf8mb4";
